@@ -1,0 +1,4 @@
+# Windows:
+*.log
+bin
+*.class
